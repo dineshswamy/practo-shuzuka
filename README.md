@@ -8,4 +8,4 @@ notified on how many persons were before him/her . The patient will get to know 
 <img src="https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/map.png" alt="Drawing" width="300" height="600"/>
 
 <img src="https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/marker_sliding_layer.png" alt="Drawing" width="300" height="600"/>
-<img src="https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/token_status_framed.png" alt="Drawing" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/token_status.png" alt="Drawing" width="300" height="600"/>
