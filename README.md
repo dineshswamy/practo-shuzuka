@@ -6,6 +6,10 @@ notified on how many persons were before him/her . The patient will get to know 
   
 #### This was done for Practo hackathon SANDBOX and got us third place . 
 
+![alt tag](https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/map.png =100x500)
+![alt tag](https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/marker_sliding_layer.png =100x500)
+![alt tag](https://raw.githubusercontent.com/dineshswamy/practo-shuzuka/master/screenshots/token_status.png 100x500)
+
 
   
   
